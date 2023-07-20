@@ -52,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+
 .hero {
     height: 800px;
     width: 100%;
@@ -116,8 +117,7 @@ p {
 
 .search-engine-optimization img,.online-reputation-management img,.social-media-marketing img  {
     max-height: 200px;
-    margin-bottom: 20px;
-    font-size: 36px;
+    
 }
 
 
