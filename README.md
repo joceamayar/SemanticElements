@@ -5,7 +5,7 @@
 This website was created to provide students with a comprehensive learning experience on the utilization of semantic elements, classes, and the consolidation of styles in the style sheet, all of which are essential foundations in the web development process.
 
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -26,7 +26,9 @@ From the class repository you downloaded locate the assets folder and the index.
 
 ## Usage
 
-Learning 
+Keep the style of the original website 
+
+![Screenshot 2023-07-20 at 10 37 12 PM](https://github.com/joceamayar/SemanticWebHTML/assets/136951180/f6aea292-9b5f-4d40-a43d-d6b672521d0a)
 
 ## Credits
 https://upennvirtfsff-azc8919.slack.com/archives/C05HNRU14LU/p1689697233832259
