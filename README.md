@@ -5,8 +5,6 @@
 This website was created to provide students with a comprehensive learning experience on the utilization of semantic elements, classes, and the consolidation of styles in the style sheet, all of which are essential foundations in the web development process.
 
 
-
-
 ## Table of Contents (Optional)
 
 - [Installation](#installation)
@@ -18,52 +16,37 @@ This website was created to provide students with a comprehensive learning exper
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+To get started with the learning materials, follow these steps for installation:
 
-Get started by the downlowing the repository with the initial code from GitLab 
+Access the class repository on GitLab and download or clone the repository to your local machine. 
+
+Create a Separate repository on your local machine.This repository will serve as your personal workspace to work on your website.
+
+From the class repository you downloaded locate the assets folder and the index.html file. Copy and paste these files to your new repository, (make sure not drag the files fromone repository to the other one).
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-
-    ```
+Learning 
 
 ## Credits
+https://upennvirtfsff-azc8919.slack.com/archives/C05HNRU14LU/p1689697233832259
 
-List your collaborators, if any, with links to their GitHub profiles.
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
-If you followed tutorials, include links to those here as well.
-
+ https://stackoverflow.com/questions/44780221/git-push-failing-http-500-curl-22-the-requested-url-returned-error-500-internal
 
 
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License
 
----
+Copyright (c) 2023 Jos
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-## Badges
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
