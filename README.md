@@ -1,9 +1,16 @@
-# SemanticWebHTML
+# SemanticElements
 
 ## Description
 
-This website was created to provide students with a comprehensive learning experience on the utilization of semantic elements, classes, and the consolidation of styles in the style sheet, all of which are essential foundations in the web development process.
+Semantic elements in HTML are those that clearly describe their meaning both to the browser and to the developer. They are essentially HTML tags that provide information about the type of content they contain, making the web page more accessible and improving search engine optimization (SEO). Examples of semantic elements include:
 
+1. **`<header>`**: This element represents the header of a section or a webpage, often containing introductory content or navigation links.
+2. **`<footer>`**: The footer element typically contains authorship information, copyright notices, contact information, and links to terms of service.
+3. **`<article>`**: This element is used for self-contained content that could be distributed independently, like blog posts, news articles, or forum posts.
+4. **`<section>`**: A section element defines sections in a document, such as chapters, headers, footers, or any other sections of the document.
+5. **`<nav>`**: This element is intended for major blocks of navigation links.
+6. **`<aside>`**: Represents a portion of a document whose content is only indirectly related to the document's main content, often used for sidebars.
+7. **`<figure>`** and **`<figcaption>`**: `figure` is for self-contained content, often with an optional caption (`figcaption`), and is typically referenced as a single unit.
 
 ## Table of Contents 
 
@@ -11,7 +18,6 @@ This website was created to provide students with a comprehensive learning exper
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-
 
 
 ## Installation
@@ -22,11 +28,10 @@ Access the class repository on GitLab and download or clone the repository to yo
 
 Create a Separate repository on your local machine.This repository will serve as your personal workspace to work on your website.
 
-From the class repository you downloaded locate the assets folder and the index.html file. Copy and paste these files to your new repository, (make sure not drag the files fromone repository to the other one).
+From the class repository you downloaded locate the assets folder and the index.html file. Copy and paste these files to your new repository, (make sure not to drag the files from one repository to the other one. Copy & paste!!).
 
 ## Usage
-
-Keep the style of the original website 
+Optimize the website by incorporating semantic elements, while maintaining the style of the original website.
 
 ![Screenshot 2023-07-20 at 10 37 12 PM](https://github.com/joceamayar/SemanticWebHTML/assets/136951180/f6aea292-9b5f-4d40-a43d-d6b672521d0a)
 
@@ -38,8 +43,6 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Documen
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
  https://stackoverflow.com/questions/44780221/git-push-failing-http-500-curl-22-the-requested-url-returned-error-500-internal
-
-
 
 ## License
 
